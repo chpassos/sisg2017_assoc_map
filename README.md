@@ -5,4 +5,5 @@ Useful links:
 
 https://si.biostat.washington.edu/suminst/archives/SISG2017/SM1712
 
+I'll go over GENESIS lectures..
 
